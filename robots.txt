@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-ub6oho.prompt-gacha.com/sitemap.xml
